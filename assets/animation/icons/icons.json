@@ -1,0 +1,44 @@
+{
+	"ambulance": {
+		"options": {
+			"iconSize":[34,34],
+			"iconAnchor":[18,16],
+			"popupAnchor":[0,0]
+		}
+	},
+	"call_low": {
+		"options": {
+			"iconSize":[18,18],
+			"iconAnchor":[10,10],
+			"popupAnchor":[0,0]
+		}
+	},
+	"call_med": {
+		"options": {
+			"iconSize":[18,18],
+			"iconAnchor":[10,10],
+			"popupAnchor":[0,0]
+		}
+	},
+	"call_high": {
+		"options": {
+			"iconSize":[18,18],
+			"iconAnchor":[10,10],
+			"popupAnchor":[0,0]
+		}
+	},
+	"hospital": {
+		"options": {
+			"iconSize":[46,46],
+			"iconAnchor":[24,26],
+			"popupAnchor":[0,0]
+		}
+	},
+	"station": {
+		"options": {
+			"iconSize":[46,46],
+			"iconAnchor":[24,26],
+			"popupAnchor":[0,0]
+		}
+	}
+}
